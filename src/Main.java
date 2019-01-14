@@ -7,7 +7,7 @@ public class Main {
     }
 
     public void greet(String input){
-        System.out.println(input);
+        System.out.println("Tső");
     }
 
 
