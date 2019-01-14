@@ -1,5 +1,5 @@
 public class SharpieSet {
-    public void cheer() {
-        System.out.println("Rajcsapat");
+    public void cheer(String idemondjad) {
+        System.out.println(idemondjad);
     }
 }
