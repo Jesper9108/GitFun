@@ -6,8 +6,8 @@ public class Main {
         System.out.println("ASd");
     }
 
-    public void greet(){
-        System.out.println("Zsolt");
+    public void greet(String input){
+        System.out.println(input);
     }
 
 
