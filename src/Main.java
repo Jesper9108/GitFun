@@ -9,6 +9,10 @@ public class Main {
     public void greet(String input, String input2) {
         System.out.println(input + input2);
     }
+    
+    public void greet(String input){
+        System.out.println("Tső");
+    }
 
     public void greet(String input){
         System.out.println("Tső");
