@@ -6,12 +6,14 @@ public class Main {
         System.out.println("ASd");
     }
 
-    public void greet(String input, String input2) {
-        System.out.println(input + input2);
+    public void greet(String inputasd, String input2) {
+        System.out.println(inputasd + input2);
     }
     
     public void greet(String input){
         System.out.println("Tső");
     }
+
+
 
 }
