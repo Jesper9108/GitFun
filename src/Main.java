@@ -5,10 +5,9 @@ public class Main {
     Main(){
         System.out.println("ASd");
     }
-
+    
     public void greet(String input){
         System.out.println("Tső");
     }
-
 
 }
