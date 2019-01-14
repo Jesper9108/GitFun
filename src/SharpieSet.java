@@ -1,5 +1,5 @@
 public class SharpieSet {
-    public void cheer(String idemondjad) {
-        System.out.println(idemondjad);
+    public void cheer(String ideMondjad, String naMegIdeIs) {
+        System.out.println(ideMondjad + naMegIdeIs);
     }
 }
