@@ -6,5 +6,9 @@ public class Main {
         System.out.println("ASd");
     }
 
+    public void greet(){
+        System.out.println("Zsolt");
+    }
+
 
 }
