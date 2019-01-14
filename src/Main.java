@@ -14,9 +14,4 @@ public class Main {
         System.out.println("Tső");
     }
 
-    public void greet(String input){
-        System.out.println("Tső");
-    }
-
-
 }
