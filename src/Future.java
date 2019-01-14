@@ -1,6 +1,7 @@
 public class Future {
 
-    public void future(String text) {
-        System.out.println("Mosómaci");
+    public void future(String text, String text2) {
+        System.out.println(text);
+        System.out.println(text2);
     }
 }
