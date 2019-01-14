@@ -5,6 +5,7 @@ public class Daniclass {
         numbertwo = 30;
         System.out.println("My age is:" + number);
         System.out.println("My age is:" + numbertwo);
+        System.out.println("My mom is:" + numbertwo);
 
     }
 }
