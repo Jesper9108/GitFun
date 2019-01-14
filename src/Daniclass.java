@@ -1,7 +1,7 @@
 public class Daniclass {
 
-    public void Count(int number) {
-        System.out.println("My age is:" + number);
+    public void count(int number) {
+        System.out.println("Counting the countless" + number);
 
     }
 }
